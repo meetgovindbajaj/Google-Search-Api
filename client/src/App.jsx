@@ -49,7 +49,7 @@ function App() {
               "x-proxy-location": "EU",
               "x-rapidapi-host": "google-search3.p.rapidapi.com",
               "x-rapidapi-key":
-                "4be2e5dcfdmsheefc1866508141cp17ef65jsndfde081e24e2",
+                "/*api key*/",
             },
           }
         );
@@ -78,7 +78,7 @@ function App() {
               "x-proxy-location": "EU",
               "x-rapidapi-host": "google-search3.p.rapidapi.com",
               "x-rapidapi-key":
-                "4be2e5dcfdmsheefc1866508141cp17ef65jsndfde081e24e2",
+                "/*api key*/",
             },
           }
         );
@@ -107,7 +107,7 @@ function App() {
               "x-proxy-location": "EU",
               "x-rapidapi-host": "google-search3.p.rapidapi.com",
               "x-rapidapi-key":
-                "4be2e5dcfdmsheefc1866508141cp17ef65jsndfde081e24e2",
+                "/*api key*/",
             },
           }
         );
